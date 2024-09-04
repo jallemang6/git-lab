@@ -14,4 +14,8 @@ Answer 8: first line: commit and a long string of letters and numbers (HEAD -> m
 Answer 9: Your branch is ahead of 'origin/main' by 1 commit.
             (use "git push" to publish your local commits)
           nothing to commit, working tree clean
-Answer 10: 
+Answer 10: No.
+Answer 11: There was an error because the GitHub does not match the old file.
+Answer 12: Yes.
+Answer 13: . .. git-lab-2 labs
+Answer 14: 
