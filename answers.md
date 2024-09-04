@@ -11,4 +11,7 @@ Answer 8: first line: commit and a long string of letters and numbers (HEAD -> m
           second line: Author: Jenna Allemang <ja334822@ohio.edu>
           date: Wed Sep 4 15:08:55 2024 -0400
             Initial commit and then it repeats that with a different string of numbers and letters (probably because I modified and the asnwers.md and commited it again)
-Answer 9: 
+Answer 9: Your branch is ahead of 'origin/main' by 1 commit.
+            (use "git push" to publish your local commits)
+          nothing to commit, working tree clean
+Answer 10: 
